@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "amplifynotetutorial",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
